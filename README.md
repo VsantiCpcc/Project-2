@@ -17,3 +17,7 @@ Project 2
 Step 1 - 1
 Step 2 - Computer Hardware Graphics Quality Recommendation Tool
 Step 3 - Code
+Step 4 - The GPU clock speed is between 800 and 2000 MHz
+The CPU clock speed is between 1000 and 5500 MHz
+The number of cores is between 1 and 16
+The user's input for the menu selection is between 1 and 4
